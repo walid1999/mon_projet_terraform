@@ -22,3 +22,4 @@ variable "nom_du_repo" {
 
 on utilise ensuite pyhton pour automatiser le tout, le script est expliqué via des commentaires 
 
+BEN KHELFALLAH WALID
